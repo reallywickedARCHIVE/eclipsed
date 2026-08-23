@@ -17,6 +17,6 @@ This project may be modified, redesigned, or removed at any time as development 
 
 ---
 
-Built for testing. Made with curiosity.
+Built for testing.
 
 — Wicked
